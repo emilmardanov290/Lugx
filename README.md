@@ -28,4 +28,5 @@ It showcases trending games, most played games, top categories, and a functional
 
 ## DEMO VERCEL
 
+https://lugx-lac.vercel.app/
 
