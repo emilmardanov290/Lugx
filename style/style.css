@@ -1,0 +1,6 @@
+/*
+    Source: https://templatemo.com/templates/templatemo_589_lugx_gaming/index.html#
+    $env:NODE_OPTIONS="--max-old-space-size=4096"
+    npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+
+*/
